@@ -118,7 +118,7 @@
         <mxCell id="_utfgkDqxFle7ULVaEqA-14" value="Will the algorithm continue or exacerbate gender bias in recruitment? " style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="487.5" width="162.5" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ewh05VEElYg_GGTcEyvv-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ewh05VEElYg_GGTcEyvv-1" value="For example, in some industries (such as science and technology, finance), historical data may be sexist. If the algorithm is trained based on these data, it may give priority to male candidates and affect women&#39;s employment opportunities." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="668.75" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
