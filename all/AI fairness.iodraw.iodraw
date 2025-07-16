@@ -97,8 +97,8 @@
             <mxPoint x="90" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_utfgkDqxFle7ULVaEqA-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="647.5" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="_utfgkDqxFle7ULVaEqA-1" value="In the recruitment scenario, does the application of AI algorithms promote fairness or bring about more injustice?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647.5" y="110" width="312.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
