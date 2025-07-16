@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="1348" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
           <mxGeometry x="365" y="450" width="210" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="_utfgkDqxFle7ULVaEqA-7" value="For example, in some industries (such as science and technology, finance), historical data may be sexist. If the algorithm is trained based on these data, it may give priority to male candidates and affect women&#39;s employment opportunities." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="600" width="180" height="57.5" as="geometry" />
+          <mxGeometry x="335" y="620" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_utfgkDqxFle7ULVaEqA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_utfgkDqxFle7ULVaEqA-8" target="_utfgkDqxFle7ULVaEqA-5">
           <mxGeometry relative="1" as="geometry" />
