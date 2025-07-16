@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="739" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="739" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_utfgkDqxFle7ULVaEqA-1" value="In the recruitment scenario, does the application of AI algorithms promote fairness or bring about more injustice?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338.75" y="170" width="312.5" height="50" as="geometry" />
+          <mxGeometry x="360" y="-270" width="312.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_utfgkDqxFle7ULVaEqA-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
