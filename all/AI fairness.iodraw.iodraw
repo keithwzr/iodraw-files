@@ -85,8 +85,8 @@
         <mxCell id="_utfgkDqxFle7ULVaEqA-1" value="In the recruitment scenario, does the application of AI algorithms promote fairness or bring about more injustice?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338.75" y="170" width="312.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_utfgkDqxFle7ULVaEqA-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="640" width="210" height="70" as="geometry" />
+        <mxCell id="_utfgkDqxFle7ULVaEqA-5" value="For example, some recruitment algorithms based on online tests may be unreasonably eliminated because they do not consider the special needs of people with disabilities (such as the inability of the visually impaired to complete the visual test)." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="650" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_utfgkDqxFle7ULVaEqA-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="462.5" width="210" height="57.5" as="geometry" />
